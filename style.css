@@ -52,7 +52,10 @@ h1{
     transition: background-color 0.3s ease;
 }
 
-img{
+.box{
+    margin: 0 auto;
+    width: 347px;
+    height: 347;
     display: flex;
     align-items: center;
     justify-content: center;
